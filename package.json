@@ -5,9 +5,10 @@
   "author": "ali",
   "license": "MIT",
   "scripts": {
-    "start":"node ."
+    "start": "node ."
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mime-types": "^2.1.29"
   }
 }
